@@ -1,6 +1,6 @@
 name: sync #action名字，随便起 
 env:
-  ID: sync
+  ID: master
   URL: https://github.com/kujian/githubTrending.git
   BRANCH: master
 
