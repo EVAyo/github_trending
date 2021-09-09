@@ -1,7 +1,44 @@
-# Scraper
+🧐Github-Trending🧐
+===============
 
-We scrape the github trending page of these languages: Go, Rust, Python, Ruby, C++, C, Java, Shell, Makefile, Swift, Objective-C, Kotlin, Jupyter-Notebook, HTML, JavaScript, TypeScript, CSS, Vue, TeX, Markdown, and push a markdown result everyday.
+An applet that automatically gets Github Trending popular projects every day.
 
-[2021-09-09.md](https://github.com/yangwenmai/github-trending-backup/blob/master/2021-09-09.md)
+Tracking the most popular Github repos, updated daily.
 
-Last Updated: 2021-09-09 04:00:06
+We scrape the trending page and push a markdown everyday.
+
+Popular repos are separated by the languages.
+
+The programming languages now configured are:
+
+- 🤖all
+
+- 🤖unknown
+
+- 🎄python
+
+- 🍎swift
+
+- 🍎objective-c
+
+- 🍇javascript
+
+- 🔥go
+
+- 😄java
+
+- 😘html
+
+- 😏kotlin
+
+- 😛shell
+
+- 🐇scala
+
+- 🐇rust
+
+  
+
+You can also manually configure the programming language you care about yourself 🤪.
+
+> Thanks for non-commercial open source development authorization by JetBrains!
