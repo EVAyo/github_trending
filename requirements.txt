@@ -1,2 +1,5 @@
-BeautifulSoup4
-requests==2
+cssselect
+lxml
+pyquery
+requests
+schedule
